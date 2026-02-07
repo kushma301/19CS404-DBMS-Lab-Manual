@@ -1,4 +1,4 @@
-## NAME : S,KUSHMA
+## NAME : S.KUSHMA
 ## REG NO: 212224040168
 
 ### ER Diagram:
